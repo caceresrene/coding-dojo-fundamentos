@@ -1,0 +1,22 @@
+div {
+  margin: 1em;
+	display: flex;
+}
+div img {
+	margin: 1em;
+}
+.verde {
+	background-color: darkseagreen;
+  justify-content: space-around;
+}
+.azul{
+  background-color: deepskyblue;
+  justify-content: space-evenly;
+}
+.rojo{
+  background-color: crimson;
+  justify-content: center;
+}
+p {
+  text-align: center;
+}
