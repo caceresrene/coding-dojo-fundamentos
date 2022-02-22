@@ -1,0 +1,52 @@
+* {
+	margin: 0;
+	top: 0;
+}
+nav {
+	display: flex;
+	padding: 1em;
+	align-items: center;
+	justify-content: space-around;
+	background-color: lightgray;
+}
+input {
+	padding: 0.4em;
+}
+.btn-login {
+	border: none;
+	padding: 0.5em;
+	background-color: cornflowerblue;
+	color: white;
+	border-radius: 10px;
+}
+main {
+	display: flex;
+}
+.card {
+	display: flex;
+	padding: 1em;
+	align-items: center;
+	gap: 1em;
+	text-align: center;
+	border: 0.1em solid gray;
+	margin: 2em;
+}
+.card-definition {
+	margin: 2em;
+	border: 0.1em solid gray;
+	padding: 1em;
+	height: fit-content;
+}
+.btn-like {
+	border: none;
+	padding: 0.3em;
+	background-color: gold;
+	border-radius: 4px;
+}
+.btn-add {
+	margin-top: 0.5em;
+	width: 100%;
+	border: none;
+	padding: 0.5em;
+	background-color: lightgreen;
+}
